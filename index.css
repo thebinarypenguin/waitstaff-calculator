@@ -1,0 +1,49 @@
+
+.container {
+  /* border: 1px solid black; */
+  padding: 3rem 0 3rem 0;
+}
+
+form {
+  /* border: 1px solid black; */
+}
+
+#meal-details {
+  margin-bottom: 3rem;
+}
+
+#customer-charges {
+  margin-bottom: 3rem;
+}
+
+#my-earnings {
+  margin-bottom: 3rem;
+}
+
+.col-form-label {
+  text-align: right;
+}
+
+#controls {
+  margin-top: 3rem;
+}
+
+#controls > div.col-5 {
+  text-align: right;
+}
+
+#controls > div.col-7 {
+  text-align: left;
+}
+
+.table {
+  width: auto;
+}
+
+th {
+  text-align: right;
+}
+
+tfoot {
+  border-top: 1px solid black;
+}
